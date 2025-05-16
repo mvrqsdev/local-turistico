@@ -4,7 +4,7 @@ Este repositório contém uma página simples desenvolvida com **HTML** e **CSS*
 
 ## 📸 Prévia
 
-![Prévia da Página](./assets/screenshot.png) <!-- Substitua pelo caminho correto da imagem se houver -->
+![Prévia da Página](./assets/screenshot.jpg) <!-- Substitua pelo caminho correto da imagem se houver -->
 
 ## 🚀 Funcionalidades
 
